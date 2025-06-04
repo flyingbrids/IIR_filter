@@ -23,7 +23,7 @@
 --							By taking inverse Z transform, the difference equation implemented is  
 --                   a_q13 * [y(n),y(n-1), y(n-2)]T = b_q13*[x(n),x(n-1),x(n-2)]T
 
--- Dependencies: 			multiply IPs by Lattice	
+-- Dependencies: 			
 --							 
 --
 -- Revision: 				
